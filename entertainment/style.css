@@ -1,0 +1,10 @@
+/* Styling trailers section of the template body  */
+
+.trailers_image_sizing {
+    height: 500px;
+    width: 320px;
+}
+
+.trailers_flex {
+    /* gap: 100px; */
+}
